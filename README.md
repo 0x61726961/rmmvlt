@@ -30,10 +30,10 @@ python3 rmmvlt.py patch -l ja
 ## Options
 
 ```bash
-rmmvlt init [-p PROJECT] [-o OUTPUT]
-rmmvlt export [-l LANG] [-o XLSX] [strings_file]
-rmmvlt import [-s STRINGS] [-o OUTPUT] -l LANG excel_file
-rmmvlt patch [-s STRINGS] [-p PROJECT] -l LANG
+python3 rmmvlt.py init [-p PROJECT] [-o OUTPUT]
+python3 rmmvlt.py export [-l LANG] [-o XLSX] [strings_file]
+python3 rmmvlt.py import [-s STRINGS] [-o OUTPUT] -l LANG excel_file
+python3 rmmvlt.py patch [-s STRINGS] [-p PROJECT] -l LANG
 ```
 
 ## Workflow
