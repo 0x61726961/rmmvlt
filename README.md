@@ -1,6 +1,6 @@
 # RPG Maker MV Localization Thingy
 
-Extract, manage, and patch translations for RPG Maker MV games. There are probably a lot of better solutions to pick from if you're starting a fresh project but this came from a need to localize games that were already shipped. This is in kinda rough shape and only really tooled for our workflow but I figure I'd release it and maybe someone someday will find it useful. Used for the [Osteoblasts](https://store.steampowered.com/app/1450650/Osteoblasts/) and [Ginger's Letter to Santa](https://store.steampowered.com/app/3392430/Gingers_Letter_to_Santa/) Japanese releases!
+Extract, manage, and patch translations for RPG Maker MV games. There are probably a lot of better solutions to pick from if you're starting a fresh project but this came from a need to localize games that were already shipped. This is in kinda rough shape and only really tooled for our workflow but I figure I'd release it and maybe someone someday will find it useful. Used for the non-English releases of [Osteoblasts](https://store.steampowered.com/app/1450650/Osteoblasts/) and [Ginger's Letter to Santa](https://store.steampowered.com/app/3392430/Gingers_Letter_to_Santa/)!
 
 ## Quick Start
 
